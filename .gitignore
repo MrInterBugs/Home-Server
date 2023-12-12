@@ -1,0 +1,4 @@
+config/
+appdata/
+secrets/
+.env
